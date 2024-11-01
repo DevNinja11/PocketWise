@@ -20,8 +20,8 @@ This project is a fintech microservices-based web application that enables users
 - ```Domain-Driven Design (DDD)``` – Emphasizes business domain logic separation.
 - ```Data-Driven Testing (DDT)``` – Ensures comprehensive testing coverage.
 - ```Value Objects``` – Maintains immutability and enhances code readability.
-
-![Screenshot 2024-08-09 104435](https://github.com/user-attachments/assets/e4ea2b0b-1089-4d2a-b416-fac7e4b8543f)
+  
+![Screenshot 2024-11-01 120104](https://github.com/user-attachments/assets/cdaa1aae-3b5a-47f9-9e1c-bae1b9c9f062)
 
 # Key Features
 - **User Registration and Authentication** – Secure registration and login functionality.
